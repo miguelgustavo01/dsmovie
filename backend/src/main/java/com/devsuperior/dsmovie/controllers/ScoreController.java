@@ -22,5 +22,4 @@ public class ScoreController {
 		MovieDTO movieDTO = service.saveScore(dto);
 		return movieDTO;
 	}
-
 }
